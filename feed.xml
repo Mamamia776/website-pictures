@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:25341DAB-7EE9-4848-A75B-CB1983AFEC93</id>
+ <title>Page list Atom feed</title>
+ <updated>2015-10-25T16:12:05-07:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:1F6B778D-44CE-4701-9FCE-27CAC183E50D</id>
+  <title>Home</title>
+  <title xmlns="urn:iweb:">Home</title>
+  <in-navbar xmlns="urn:iweb:">1F6B778D-44CE-4701-9FCE-27CAC183E50D</in-navbar>
+  <link rel="alternate" href="Home.html"/>
+  <updated>2015-10-25T16:12:05.001-07:00</updated>
+  <content>Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:FC6FD48E-653E-4654-BC29-4C9D9643C023</id>
+  <title>About Us</title>
+  <title xmlns="urn:iweb:">About Us</title>
+  <in-navbar xmlns="urn:iweb:">FC6FD48E-653E-4654-BC29-4C9D9643C023</in-navbar>
+  <link rel="alternate" href="About_Us.html"/>
+  <updated>2015-10-25T16:12:05.002-07:00</updated>
+  <content>About Us</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:C39D1EB4-9848-4473-957C-43D3E437B5B3</id>
+  <title>Calendar</title>
+  <title xmlns="urn:iweb:">Calendar</title>
+  <in-navbar xmlns="urn:iweb:">C39D1EB4-9848-4473-957C-43D3E437B5B3</in-navbar>
+  <link rel="alternate" href="Calendar.html"/>
+  <updated>2015-10-25T16:12:05.003-07:00</updated>
+  <content>Calendar</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:F7A65C0A-6EAE-4397-9B1E-5B596FC53A7A</id>
+  <title>Contacts</title>
+  <title xmlns="urn:iweb:">Contacts</title>
+  <in-navbar xmlns="urn:iweb:">F7A65C0A-6EAE-4397-9B1E-5B596FC53A7A</in-navbar>
+  <link rel="alternate" href="Contacts.html"/>
+  <updated>2015-10-25T16:12:05.004-07:00</updated>
+  <content>Contacts</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:B47EFA83-0FAC-40DF-9D3E-6FB233464090</id>
+  <title>Directory</title>
+  <title xmlns="urn:iweb:">Directory</title>
+  <in-navbar xmlns="urn:iweb:">B47EFA83-0FAC-40DF-9D3E-6FB233464090</in-navbar>
+  <link rel="alternate" href="Directory.html"/>
+  <updated>2015-10-25T16:12:05.005-07:00</updated>
+  <content>Directory</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:3F6FCB41-5616-4DE1-91A8-AD586A9860E8</id>
+  <title>ScoutNews</title>
+  <title xmlns="urn:iweb:">ScoutNews</title>
+  <in-navbar xmlns="urn:iweb:">3F6FCB41-5616-4DE1-91A8-AD586A9860E8</in-navbar>
+  <link rel="alternate" href="ScoutNews/ScoutNews.html"/>
+  <updated>2006-03-21T10:16:44-08:00</updated>
+  <content>ScoutNews</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:81F62C98-35BF-4905-9AE4-DF9C5A5F858D</id>
+  <title>Updates</title>
+  <title xmlns="urn:iweb:">Updates</title>
+  <in-navbar xmlns="urn:iweb:">81F62C98-35BF-4905-9AE4-DF9C5A5F858D</in-navbar>
+  <link rel="alternate" href="Updates/Updates.html"/>
+  <updated>2006-03-21T10:16:44-08:00</updated>
+  <content>Updates</content>
+ </entry>
+</feed>
